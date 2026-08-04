@@ -1,4 +1,4 @@
-# Activity 2: Extended Colour Customiser (Take-Home)
+# Activity 2: Extended Colour Customiser
 
 ## Objective
 
@@ -157,15 +157,6 @@ Copy your files from Activity 1 into a new folder called `activity-2` to begin.
 
 ---
 
-## Extension Challenges (Optional)
-
-1. **Add a history list** — Show the last 5 colours used in a list below the buttons.
-2. **Add keyboard shortcuts** — Press `R` for random colour, or `Escape` to reset.
-3. **Add a copy button** — Copy the current hex code to the clipboard.
-4. **Add export/import** — Let users export their settings as a JSON file and import it later.
-
----
-
 ## Checklist
 
 Before submitting, make sure you have:
@@ -179,7 +170,3 @@ Before submitting, make sure you have:
 - Clear Saved Settings button removes stored data and resets the page
 - Reset button also resets opacity to 100
 - Tested all features in the browser
-
----
-
-**Good luck!** 🎨
