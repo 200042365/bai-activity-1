@@ -10,12 +10,21 @@
     <div class="container">
         <h1>Activity 1</h1>
         <p>Click the button below to change the background colour!</p>
-        <button id="changeColourBtn">Change Colour</button>
+        <button id="changeColourBtn" onclick="changeColour()">Change Colour</button>
+        <label>colour</label>
+        <input id="colour" >
         <p class="instructions">
             <strong>Your Task:</strong> Write JavaScript to make this button change the background colour of the page when clicked.
         </p>
+
+        <button id="resetColour" onclick="resetColour()">RESET</button>
+        <p id="colourNamee"> </p>
+
+        <button id="randomColour" onclick="changeColour()">Random Colour</button>
     </div>
 
-    <script src="main.js"></script>
+
+
+    <script src="activity.js"></script>
 </body>
 </html>
